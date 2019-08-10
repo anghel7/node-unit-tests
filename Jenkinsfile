@@ -12,7 +12,7 @@ pipeline{
             steps {
                 script {
                     node {
-                        println "My primerrr stage"
+                        println "My primerrr stage jenkinsfile"
                         echo "Nombre de usuario ${myUsername}"
                     }
                 }
