@@ -26,7 +26,7 @@ pipeline{
                 script {
                     node {
                         println "My segundo stage"
-                        println "Nombre de usuario $myUsername"
+                        println "Nombreeeeee de usuario $myUsername"
                     }
                 }
             }
