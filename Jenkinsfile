@@ -1,7 +1,7 @@
 pipeline{
     agent none;
     
-    enviroment {
+    environment {
         myUsername = "Angel antezana"
         }
     
