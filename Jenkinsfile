@@ -19,7 +19,7 @@ pipeline{
             }
         }
         stage("segundo stage") {
-            enviroment {
+            environment {
                 myUsername = "Angel antezana"
             }
             steps {
